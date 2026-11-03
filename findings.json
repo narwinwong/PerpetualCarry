@@ -1,0 +1,17 @@
+{
+  "id": "E07",
+  "title": "E07 | Reported persistent carry accounting",
+  "values": [
+    -21.12,
+    -29.43,
+    -64.52
+  ],
+  "unit": "Reported USD (rounded)",
+  "limitation": "Oracle-long proxy plus perpetual short; assumed frictions, not executable spot or OOS.",
+  "rotation": 0,
+  "labels": [
+    "Gross reference",
+    "After assumed costs",
+    "Versus capital benchmark"
+  ]
+}
